@@ -1,0 +1,12 @@
+altair==5.3.0
+geopandas==0.14.3
+matplotlib==3.8.0
+numpy==1.26.4
+pandas==2.2.1
+pandas_bokeh==0.5.5
+pgeocode==0.4.1
+plotly==5.9.0
+seaborn==0.13.2
+Shapely==2.0.3
+streamlit==1.32.2
+streamlit_option_menu==0.3.12
