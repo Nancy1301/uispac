@@ -10,3 +10,4 @@ seaborn==0.13.2
 Shapely==2.0.3
 streamlit==1.32.2
 streamlit_option_menu==0.3.12
+openpyxl==3.1.2
